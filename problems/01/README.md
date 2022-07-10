@@ -1,4 +1,4 @@
-# **[<<](#) #01 - Any two numbers in an array adds up to k [>>](#)**
+# **[<<](#) #01 - Do any two numbers in a list add up to k? [>>](#)**
 
 Given a list of numbers and a number k, return whether any two numbers from the list add up to k.
 
