@@ -9,6 +9,7 @@ I solved them. To train, I used several different programming languages.
 
 ## [**Problems**](#problems)
 
-|  #  |                Description                |           Link           | Difficult | Languages |
-| :-: | :---------------------------------------: | :----------------------: | :-------: | :-------: |
-| 01  | Do any two numbers in a list add up to k? | [**🟦**](./problems/01/) |   Easy    |  Python   |
+|  #  |                Description                |           Link           | Difficult | Languages  |
+| :-: | :---------------------------------------: | :----------------------: | :-------: | :--------: |
+| 01  | Do any two numbers in a list add up to k? | [**🟦**](./problems/01/) |   Easy    |   Python   |
+| 02  |                     -                     | [**🟦**](./problems/02/) |   Hard    | Javascript |
