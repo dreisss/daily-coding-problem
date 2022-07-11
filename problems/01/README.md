@@ -1,4 +1,4 @@
-[<<]: https://github.com/dreisss/daily-coding-problem;
+[<<]: https://github.com/dreisss/daily-coding-problem
 [>>]: ../02/
 
 # **[<<] #01 - Do any two numbers in a list add up to k? [>>]**
